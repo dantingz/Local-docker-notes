@@ -1,0 +1,1 @@
+working run example: docker run -ti -v C:/Users/danda/Documents/Rotations/Eric_Li/SCH5-snATAC_seq:/tmp -w /tmp dantingz/snapatac2 /bin/bash
